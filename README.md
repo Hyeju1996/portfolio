@@ -10,10 +10,10 @@
 
 ## check marks for how you did.
 
-[X] made power point.
-[X] makde wireframe with figma.
-[X] added Javascript and all prgram you want on coffe website.
-[] in design website add tailwind css (font and everything ect.)
+- [X] made power point.
+- [X] makde wireframe with figma.
+- [X] added Javascript and all prgram you want on coffe website.
+- [] in design website add tailwind css (font and everything ect.)
 
 Now its 99% done. 
 
