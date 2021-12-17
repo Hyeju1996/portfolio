@@ -53,6 +53,17 @@ main {
     -moz-osx-font-smoothing: grayscale;
 }
 
+#article_rating .button.aritem {
+    min-width: 100px;
+    padding: 3px 10px 3px 50px;
+    font-size: 18px;
+    line-height: 2.5em;
+    font-weight: bold;
+    text-align: center;
+    display: inline-block;
+    margin-bottom: 1rem;
+}
+
 footer {
     background-color: #6f3a09;
     margin: 0 auto;

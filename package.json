@@ -1,0 +1,19 @@
+{
+  "name": "protoforio",
+  "version": "1.0.0",
+  "description": "![Coffee](https://user-images.githubusercontent.com/56320722/146451409-4ce46e8f-e7fc-433b-8a20-083676a40bfc.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hyeju1996/protoforio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hyeju1996/protoforio/issues"
+  },
+  "homepage": "https://github.com/Hyeju1996/protoforio#readme"
+}
